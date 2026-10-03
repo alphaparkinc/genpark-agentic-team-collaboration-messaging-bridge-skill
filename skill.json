@@ -1,0 +1,8 @@
+{
+  "name": "genpark-agentic-team-collaboration-messaging-bridge-skill",
+  "version": "1.0.0",
+  "description": "Normalizes, routes, and thread-correlates multi-agent notifications and interactive prompts across team collaboration channels",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
