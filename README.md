@@ -1,0 +1,1 @@
+# genpark-agentic-team-collaboration-messaging-bridge-skill\n\nNormalizes, routes, and thread-correlates multi-agent notifications and interactive prompts across team collaboration channels.\n\n100% Python Standard Library implementation with zero external dependencies.
