@@ -1,0 +1,1 @@
+[project]\nname = "genpark-agentic-team-collaboration-messaging-bridge-skill"\nversion = "1.0.0"\ndescription = "Normalizes, routes, and thread-correlates multi-agent notifications and interactive prompts across team collaboration channels"\nreadme = "README.md"\nrequires-python = ">=3.9"\ndependencies = []\n
